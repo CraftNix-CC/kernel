@@ -1,0 +1,1 @@
+{"bootfile":"boot/kernel.lua", "args":["quiet"],"timeout":10,"name":"CraftNix"}
